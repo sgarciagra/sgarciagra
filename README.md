@@ -4,7 +4,7 @@
 las necesidades de digitalización del entorno industrial.**
 
 Por ello:
-- 💬 Me estoy formando en un Desarrollo de Aplicaciones Web en La Salle (online)
+- 💬 Me estoy formando en **Desarrollo de Aplicaciones Web** en La Salle (online)
 - 👯 Colaboro con pequeños emprendedores para el lanzamiento y mantenimiento periódico de sus páginas web
   
 
